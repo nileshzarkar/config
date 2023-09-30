@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 cards:
-  message: "Welcome to EazyBank cards related prod APIs GIT-HUB REFRESH-TEST"
+  message: "Welcome to EazyBank cards related prod APIs GIT-HUB"
   contactDetails:
     name: "Sandra Harald - Product Owner"
     email: "{cipher}9974f9ad017d16bd2a73ce4ebec1548edec712f2a6b44f3976edea0db7cb32dd3b3d2464774923cad3d54bbf6b94e4e5"
