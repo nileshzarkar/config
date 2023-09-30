@@ -1,7 +1,7 @@
 build:
   version: "2.0"
 loans:
-  message: "Welcome to EazyBank loans related PROD APIs GIT-HUB"
+  message: "Welcome to EazyBank loans related PROD APIs GIT-HUB REFRESH-TEST"
   contactDetails:
     name: "Reine Aishwarya - Product Owner"
     email: "{cipher}18d3cdc932cbdc52f905e524eb4a63c6a940d0f9c9e5fc51b4585bb37a9f17748a2fbb15145bfe1b95202d59480a2573"
