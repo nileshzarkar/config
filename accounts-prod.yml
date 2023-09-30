@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related prod APIs GIT-HUB"
+  message: "Welcome to EazyBank accounts related prod APIs GIT-HUB test-webhook"
   contactDetails:
     name: "Reine Aishwarya - Product Owner"
     email: "{cipher}bf538d958baca10a5e973e8098b4d2e80c1b7a21d3fbb987b58bae2a57ac99f195111085453a38d6bf3382d15dc3f0da"
